@@ -20,7 +20,7 @@
         /* You will likely need to add more depending on your app. */
 
         /* Standard HTML Elements */
-        aside, nav { display: none; }
+        aside, nav { display: none !important; }
         footer { display: none !important; }
         body * { color: black !important; background-color: white; }
         h1, h2, h3, h4, h5, h6 {
