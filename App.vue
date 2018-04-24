@@ -43,7 +43,10 @@
         }
         .grey--text{ color: black !important; }
         .chip--outline{ border-color: black !important; }
-
+        .list{ background: unset !important; }
+        .elevation-1 { box-shadow: unset !important; }        
+        .elevation-2 { box-shadow: unset !important; }        
+        .elevation-3 { box-shadow: unset !important; }        
 
         /* Pseudo Classes */
         a:link          { color: black !important; text-decoration:none; }
